@@ -16,6 +16,7 @@ void sort(int arr[],int size){
 }
 
 int main(){
+		// 阿亮提交注释
 		int arr[] = {12,31,32,32};
 		int size = sizeof(arr)/sizeof(arr[0]);
 		sort(arr,size);
